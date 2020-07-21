@@ -1,8 +1,6 @@
-# Generic Simple Vanilla JavaScript template
+# Vanilla JavaScript Template
 
-> 
-
-![screenshot](./)
+Generic Simple Vanilla JavaScript template
 
 # Project Details
  
