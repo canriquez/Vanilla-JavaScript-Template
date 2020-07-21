@@ -11,6 +11,7 @@ Includes basic configuration for
 - ESlint, Stylelint
 - Github linters
 - JS/HTML/CSS 
+- Basic source fonts: open source Futura (./src/fonts/futura)
 
 ## Built With
 
