@@ -1,4 +1,4 @@
-# Dynamic Interfaces
+# Generic Simple Vanilla JavaScript template
 
 > 
 
@@ -6,16 +6,17 @@
 
 # Project Details
  
+Includes basic configuration for 
+- WebPack basic config (CSS/icons/images/files)
+- ESlint, Stylelint
+- Github linters
+- JS/HTML/CSS 
 
 ## Built With
 
 - HTML/CSS, Javascript, Webpack, NPM, yarn.
 - ESlint, Stylelint
 - VSCode
-
-## Live Demo
-
-[Live Demo Link]()
 
 
 ## Getting Started
